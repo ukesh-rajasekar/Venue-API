@@ -1,2 +1,2 @@
 # API
-get venues
+REST API build with flask, get venues
