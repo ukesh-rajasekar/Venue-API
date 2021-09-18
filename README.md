@@ -1,2 +1,12 @@
 # API
-REST API build with flask, get venues
+Venue API build with flask.
+
+# Arguments: 
+  Latitude
+  Longitude
+  
+# Returns:
+   Venues which are near the entered location
+  
+ 
+
